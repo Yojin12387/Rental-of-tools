@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467408635176",
+    "project_id": "diplomki-6563f",
+    "storage_bucket": "diplomki-6563f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467408635176:android:e0fdb814d9c97949b83c1d",
+        "android_client_info": {
+          "package_name": "com.example.diplomki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqNh6ivb1lB28Hki1ce4etX9zYoWT_Th8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
